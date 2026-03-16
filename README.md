@@ -1,8 +1,11 @@
 <h1 align="center">Partha Dev Nath</h1>
 
+
+<h1 align="center">Partha Dev Nath</h1>
 <p align="center">
-AI/ML Enthusiast | BS in CSE,UITS 
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=6A5ACD&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Enthusiast;Aspiring+AI%2FML+Engineer;Building+Machine+Learning+Projects" />
 </p>
+
 
 <p align="center">
 <a href="mailto:parthadevnath27@gmail.com">Email</a> •
