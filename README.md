@@ -1,7 +1,4 @@
 <h1 align="center">Partha Dev Nath</h1>
-
-
-<h1 align="center">Partha Dev Nath</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=6A5ACD&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Enthusiast;Aspiring+AI%2FML+Engineer;Building+Machine+Learning+Projects" />
 </p>
