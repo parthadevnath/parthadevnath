@@ -7,7 +7,7 @@ AI/ML Enthusiast | BS in CSE,UITS
 <p align="center">
 <a href="mailto:parthadevnath27@gmail.com">Email</a> •
 <a href="https://kaggle.com/parthadevnath">kaggle</a> •
-<a href="https://linkedin.com/parthadevnathh">Instagram</a> •
+<a href="https://linkedin.com/parthadevnathh">linkedin</a> •
 <a href="https://codeforces.com/Parthadevnath">codeforces</a>
 </p>
 
